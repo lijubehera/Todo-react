@@ -1,6 +1,7 @@
  📝 MyTodo React App
 
 This project is a **Todo List application** built using **React.js**, with modern design and dynamic features like adding and deleting todos. It was bootstrapped using [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/user-attachments/assets/fe7b70a7-9657-487b-9774-d27c3d32dfc6)
 
 ---
 
